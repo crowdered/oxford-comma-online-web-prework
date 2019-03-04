@@ -9,4 +9,3 @@ end
   end
   array.join(", ")
 end
-end
